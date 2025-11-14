@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 // IMPORT YOUR ICON FILES
 import GmailIcon from "../../assets/icons/gmail.png";
-import LinkedInIcon from "../../assets/icons/linkedin.png";
+import LinkedInIcon from "../../assets/icons/linkedIn.png";
 import InstaIcon from "../../assets/icons/instagram.png";
 
 const Wrapper = styled.footer`
